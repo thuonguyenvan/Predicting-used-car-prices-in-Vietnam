@@ -43,8 +43,8 @@ For any questions or support, please contact:
 
 - **Name**: Thuong N.Van  
 - **Email**: thuongnguyenvan2209@gmail.com  
-- **Phone**: +84 766 739336  
-- **GitHub**: [github.com/thuongnv](https://github.com/thuongnv)
+- **Phone**: +84 766 739 336  
+- **Linkedin**: [thuonguyenvan](https://www.linkedin.com/in/thuonguyenvan/)
 
 ## Acknowledgment
 This project received a score of **9/10**, graded by **Dr. Ninh Khanh Duy**.  
